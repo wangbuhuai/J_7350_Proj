@@ -1,0 +1,4 @@
+RANDOM
+40
+TIERED
+10

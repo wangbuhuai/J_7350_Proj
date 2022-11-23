@@ -1,0 +1,4 @@
+RANDOM
+5
+UNIFORM
+6
